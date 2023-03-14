@@ -1,0 +1,10 @@
+.navbar-brand {
+    transform: translateX(-50%);
+    left: 50%;
+    position: absolute;
+    color: white;
+    font-size: 1.7em !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+

@@ -1,0 +1,23 @@
+.box{
+    margin-top:70px;
+    margin-left: 200px;
+    width: 900px;
+    height: 450px;
+    border-radius: 12px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+label{
+    margin-top: 15px;
+    position: relative;
+}
+
+button{
+    margin-top: 15px;
+}
+
+
